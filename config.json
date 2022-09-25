@@ -1,5 +1,5 @@
 {
-"host":"https://aktrains-api-client-uk2io.ondigitalocean.app",
+"host":"http://localhost:3000",
 "isMaintainance":false,
 "maintainanceMsg":"Sorry for inconvenience caused! Maintenance is going on. Please try again after few hours."
 }
